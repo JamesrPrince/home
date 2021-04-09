@@ -1,1 +1,1 @@
-# jptech
+# James Prince Technologies
