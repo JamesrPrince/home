@@ -170,12 +170,14 @@ nav.container {
 .home_hero {
   display: flex;
   margin: 42px 0px;
+  /* flex-wrap: wrap; 1 */
 }
 
 .home_intro {
   flex: 50%;
   padding: 0;
   margin: 0;
+  padding-right: 1rem;
 }
 
 .home_checkout {
