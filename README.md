@@ -1,5 +1,5 @@
-# James Prince Technologies
+# Welcome to James Prince | The Blog
 
 ## Check it out!
 
-[JP Tech](https://jamesrprince.github.io/jptech/#) ~ Static Site
+[JamesPrince | Blog](https://jamesrprince.github.io/jptech/#) ~ Click to visit site.
