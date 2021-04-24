@@ -211,15 +211,17 @@ html {
   }
   
   .home_topic-block {
-    /* border: 2px solid white;  */
-    display: block;
     box-shadow: 0px 4px 10px grey;
     border-radius: 10px;
-    padding: 2rem 1rem;
+    padding: 2em 1em;
   }
   .home_topics a {
     text-decoration: none;
     width: 30%;
     margin-top: 2rem;
+    transition: all 1s;
   }
   
+  .home_topics a:hover {
+    transform: scale(1.1);
+  }
